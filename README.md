@@ -1,0 +1,2 @@
+# PythonBilgiler12
+Fonksiyonlar
